@@ -1,0 +1,41 @@
+*** Meni_El WordPress Theme Changelog ***
+
+Version 1.0.6
+
+    * Fixed: External demo source update
+    * Compatible: Latest Elementor  Version
+
+Version 1.0.5
+
+    * Compatible with latest WordPress Version
+    * Compatible: Latest Elementor  Version
+    * Fixed: Notice errors
+    
+Version 1.0.4
+
+    * Added: Global Product Template For Single Product Page
+    * Compatible with latest WordPress Version
+
+Version 1.0.3
+
+    * Compatible: Latest WordPress Version    
+    * Compatible: Latest Elementor  Version
+    * Importer source updated
+    * Fixed: Bulk plugin installation error
+    * Fixed: Minor bugs
+
+Version 1.0.2
+
+    * Compatible: Elementor Addon plugin Elementor Latest Version
+    * Compatible: Latest WordPress version
+    * Unyson plugin source updated
+
+Version 1.0.1
+
+    * Demo content added
+    * Fixed: Ultimate Booking Addon Elementor deprecated error
+    * Compatible: Elementor Addon plugin Elementor Latest Version
+
+Version 1.0.0
+
+    * First release!

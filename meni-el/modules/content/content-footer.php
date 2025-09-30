@@ -1,0 +1,1 @@
+<?php echo apply_filters( 'meni_el_footer_get_template_part', meni_el_get_template_part( 'footer', 'templates/footer', '', array() ) ); ?>
